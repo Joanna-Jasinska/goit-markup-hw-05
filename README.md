@@ -1,3 +1,3 @@
-# goit-markup-hw-06
+# goit-markup-hw-05
 
-learning html, css, .js introduction #6
+learning html, css, .js introduction #5
